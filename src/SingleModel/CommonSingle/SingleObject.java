@@ -1,4 +1,4 @@
-package SingleModle.CommonSingle;
+package SingleModel.CommonSingle;
 
 /**
  * @ClassName: Single

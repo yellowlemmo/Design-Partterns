@@ -1,4 +1,4 @@
-package SingleModle.LoginSingleModle;
+package SingleModel.LoginSingleModle;
 
 /**
  * @ClassName: LoginSingleObject

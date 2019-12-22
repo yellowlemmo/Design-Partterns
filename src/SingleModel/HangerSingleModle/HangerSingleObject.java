@@ -1,4 +1,4 @@
-package SingleModle.HangerSingleModle;
+package SingleModel.HangerSingleModle;
 
 /**
  * @ClassName: HangerSingleObject

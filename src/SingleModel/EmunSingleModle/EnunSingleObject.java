@@ -1,4 +1,4 @@
-package SingleModle.EmunSingleModle;
+package SingleModel.EmunSingleModle;
 
 /**
  * @ClassName: EmunSingleObject

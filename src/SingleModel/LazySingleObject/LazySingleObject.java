@@ -1,4 +1,4 @@
-package SingleModle.LazySingleObject;
+package SingleModel.LazySingleObject;
 
 /**
  * @ClassName: LazySingleObject

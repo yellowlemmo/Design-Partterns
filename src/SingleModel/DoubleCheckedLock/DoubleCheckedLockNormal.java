@@ -1,4 +1,4 @@
-package SingleModle.DoubleCheckedLock;
+package SingleModel.DoubleCheckedLock;
 
 /**
  * @ClassName: DoubleCheckedLockNormal
