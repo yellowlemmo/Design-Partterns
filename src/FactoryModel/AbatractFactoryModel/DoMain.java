@@ -3,8 +3,6 @@ package FactoryModel.AbatractFactoryModel;
 import FactoryModel.AbatractFactoryModel.Class.Color;
 import FactoryModel.AbatractFactoryModel.Class.Shap;
 
-import java.awt.*;
-
 /**
  * @ClassName: DoMain
  * @DESCRIPT: TODO
