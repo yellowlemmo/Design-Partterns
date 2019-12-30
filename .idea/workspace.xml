@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4c5bcf3-9a44-4b46-aaf0-8b7bf2e31b0b" name="Default" comment="version 1.0.2">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuildModel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/Domain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/ShapeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,8 +22,149 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="360">
+                <caret line="24" column="98" selection-start-line="24" selection-start-column="98" selection-end-line="24" selection-end-column="98" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BuildModel/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="465">
+                <caret line="31" column="130" selection-start-line="31" selection-start-column="130" selection-end-line="31" selection-end-column="130" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapCache.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Domain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/Domain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapeFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapeInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,16 +179,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SingleModle/CommonSingle/Dmmain.java" />
-        <option value="$PROJECT_DIR$/src/SingleModle/CommonSingle/SingleObject.java" />
-        <option value="$PROJECT_DIR$/src/SingleModle/DoubleCheckedLock/DoubleCheckedLock.java" />
-        <option value="$PROJECT_DIR$/src/SingleModle/DoubleCheckedLock/DoubleCheckedLockNormal.java" />
-        <option value="$PROJECT_DIR$/src/SingleModle/EmunSingleModle/EnunSingleObject.java" />
-        <option value="$PROJECT_DIR$/src/SingleModle/EmunSingleModle/Domain.java" />
-        <option value="$PROJECT_DIR$/src/SingleModle/HangerSingleModle/HangerSingleObject.java" />
-        <option value="$PROJECT_DIR$/src/SingleModle/LazySingleObject/LazySingleObject.java" />
-        <option value="$PROJECT_DIR$/src/SingleModle/LazySingleObject/SynchronizedLazySingleObject.java" />
-        <option value="$PROJECT_DIR$/src/SingleModle/LoginSingleModle/LoginSingleObject.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorFactory.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Shap/Circle.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Shap/Rectagngle.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Shap/Square.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapFactory.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Factory/ShapFactory.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Factory/ColorFactory.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Class/Color.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Class/Shap.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorEntity/Green.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorEntity/Red.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorEntity/Yellow.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Circle.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Rectagngle.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Square.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/FactoryList/ColorFactory.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/FactoryList/ShapFactory.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/FactoryProduct.java" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/README" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/README" />
+        <option value="$PROJECT_DIR$/src/SingleModel/README.md" />
+        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/DoMain.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/Packing.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/PackEntity/Wrapper.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/PackEntity/Bottle.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/Item.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/BurgerEntity/Burger.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/BurgerEntity/ColdDrink.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/Burger/VegBurger.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/Burger/ChickenBurger.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/ColdDrink/Pepsi.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/ColdDrink/Coke.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/Meal/Meal.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/Domain.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/ItemImpl/Burger.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/ItemImpl/ColdDrink.java" />
+        <option value="$PROJECT_DIR$/src/BuildModel/Meal/MealBuilder.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/Shap.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Cricle.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapCache.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/ShapeInterface.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Circle.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/Shape.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Square.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/Domain.java" />
+        <option value="$PROJECT_DIR$/src/ProtoTypeModel/README.md" />
+        <option value="$PROJECT_DIR$/src/BuildModel/README.md" />
       </list>
     </option>
   </component>
@@ -71,7 +263,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,14 +280,14 @@
               <item name="Design-Patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SingleModle" type="462c0819:PsiDirectoryNode" />
+              <item name="BuildModel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,6 +297,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Shap" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,7 +315,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Domain (1)">
+    <configuration name="DoMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryModel.AbatractFactoryModel.DoMain" />
+      <module name="Design-Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryModel.AbatractFactoryModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryModel.CommonFactoryModel.DoMain" />
+      <module name="Design-Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryModel.CommonFactoryModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Domain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProtoTypeModel.Domain" />
+      <module name="Design-Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProtoTypeModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Domain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuildModel.Domain" />
+      <module name="Design-Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BuildModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -160,6 +401,20 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.DoMain" />
+      <item itemvalue="Application.DoMain (1)" />
+      <item itemvalue="Application.Domain" />
+      <item itemvalue="Application.Domain (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Domain (1)" />
+        <item itemvalue="Application.Domain" />
+        <item itemvalue="Application.DoMain (1)" />
+        <item itemvalue="Application.DoMain" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -171,41 +426,62 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576999325535</updated>
-      <workItem from="1576999326969" duration="1025000" />
+      <workItem from="1576999326969" duration="4392000" />
+      <workItem from="1577600430847" duration="3016000" />
+      <workItem from="1577709059157" duration="2421000" />
     </task>
+    <task id="LOCAL-00001" summary="工厂模式和抽象工厂模式">
+      <created>1577006187864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577006187864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1025000" />
+    <option name="totallyTimeSpent" value="9829000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.48848486" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32969698" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2678788" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.49939394" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -247,87 +523,459 @@
     <MESSAGE value="信息管理平台，发送消息接口" />
     <MESSAGE value="接口拦截" />
     <MESSAGE value="version 1.0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 1.0.2" />
+    <MESSAGE value="工厂模式和抽象工厂模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="工厂模式和抽象工厂模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DesignPattern/SingleModle/CommonSingle/Dmmain.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleModle/CommonSingle/SingleObject.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="195">
+          <caret line="13" column="11" selection-start-line="13" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleModle/DoubleCheckedLock/DoubleCheckedLock.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/Rectagngle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="165">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleModle/DoubleCheckedLock/DoubleCheckedLockNormal.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/DoMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="285">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleModle/EmunSingleModle/EnunSingleObject.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Class/Shap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleModle/EmunSingleModle/Domain.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorEntity/Red.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="90">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorEntity/Yellow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Rectagngle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/README">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SingleModel/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/FactoryList/ColorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleModle/HangerSingleModle/HangerSingleObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/README">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleModle/LazySingleObject/LazySingleObject.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Class/Color.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleModle/LazySingleObject/SynchronizedLazySingleObject.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorEntity/Green.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="90">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleModle/LoginSingleModle/LoginSingleObject.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/AbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        <state relative-caret-position="90">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleModle/README.md">
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/FactoryProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/FactoryList/ShapFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/DoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/Burger/VegBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/ColdDrink/Pepsi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/Domain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/Packing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/PackEntity/Bottle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/PackEntity/Wrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/ItemImpl/Burger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/ItemImpl/ColdDrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/ColdDrink/Coke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/Burger/ChickenBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/Meal/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Appendable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1636">
+          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1314">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/Meal/MealBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Cricle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/ShapFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/Shap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/Domain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="98" selection-start-line="24" selection-start-column="98" selection-end-line="24" selection-end-column="98" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="465">
+            <caret line="31" column="130" selection-start-line="31" selection-start-column="130" selection-end-line="31" selection-end-column="130" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
