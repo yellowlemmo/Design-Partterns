@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4c5bcf3-9a44-4b46-aaf0-8b7bf2e31b0b" name="Default" comment="version 1.0.2">
-      <change afterPath="$PROJECT_DIR$/src/BuildModel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/Domain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProtoTypeModel/ShapeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterModel/ChainLandPowerAdapterHKPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterModel/Domain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterModel/Electric/ChainElectric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterModel/Electric/Electric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterModel/Power/ChainLandPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterModel/Power/ChainLandPowerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterModel/Power/HKPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterModel/Power/HKPowerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterModel/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,80 +28,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/Shape.java">
+      <file leaf-file-name="ChainLandPower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdapterModel/Power/ChainLandPower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="150">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HKPower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdapterModel/Power/HKPower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChainElectric.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdapterModel/Electric/ChainElectric.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
               <folding>
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="24" column="98" selection-start-line="24" selection-start-column="98" selection-end-line="24" selection-end-column="98" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BuildModel/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="465">
-                <caret line="31" column="130" selection-start-line="31" selection-start-column="130" selection-end-line="31" selection-end-column="130" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShapCache.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapCache.java">
+      <file leaf-file-name="ChainLandPowerImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdapterModel/Power/ChainLandPowerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state relative-caret-position="60">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Domain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/Domain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#241#242#0" expanded="true" />
                 <element signature="e#277#278#0" expanded="true" />
               </folding>
@@ -110,48 +72,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShapeFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/GenerateObject/ShapeFactory.java">
+      <file leaf-file-name="HKPowerImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdapterModel/Power/HKPowerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Square.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+            <state relative-caret-position="60">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShapeInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapeInterface.java">
+      <file leaf-file-name="ChainLandPowerAdapterHKPower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdapterModel/ChainLandPowerAdapterHKPower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="210">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Rectangle.java">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdapterModel/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="240">
+                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Domain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AdapterModel/Domain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+            <state relative-caret-position="375">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Electric.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdapterModel/Electric/Electric.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -179,22 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorFactory.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Shap/Circle.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Shap/Rectagngle.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Shap/Square.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapFactory.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Factory/ShapFactory.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Factory/ColorFactory.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Class/Color.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Class/Shap.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorEntity/Green.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorEntity/Red.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorEntity/Yellow.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Circle.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Rectagngle.java" />
-        <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Square.java" />
         <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/FactoryList/ColorFactory.java" />
         <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/FactoryList/ShapFactory.java" />
         <option value="$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/FactoryProduct.java" />
@@ -230,6 +192,22 @@
         <option value="$PROJECT_DIR$/src/ProtoTypeModel/Domain.java" />
         <option value="$PROJECT_DIR$/src/ProtoTypeModel/README.md" />
         <option value="$PROJECT_DIR$/src/BuildModel/README.md" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/ChainHK/HKPower.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/ChainHK/HKElectric.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/ChainLand/ChainLandElectric.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/ChainLand/ChainLandPower.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/Electric/CommonElectric.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/Electric/HKElectric.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/PowerAdapter.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/Electric/Electric.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/Electric/ChainElectric.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/Power/ChainLandPower.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/Power/ChainLandPowerImpl.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/Power/HKPower.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/Power/HKPowerImpl.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/README.md" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/ElectricAdapter.java" />
+        <option value="$PROJECT_DIR$/src/AdapterModel/Domain.java" />
       </list>
     </option>
   </component>
@@ -252,10 +230,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="7" />
-    <option name="y" value="23" />
-    <option name="width" value="1376" />
-    <option name="height" value="829" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -263,7 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,14 +256,28 @@
               <item name="Design-Patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BuildModel" type="462c0819:PsiDirectoryNode" />
+              <item name="AdapterModel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design-Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design-Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AdapterModel" type="462c0819:PsiDirectoryNode" />
+              <item name="Electric" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design-Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design-Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AdapterModel" type="462c0819:PsiDirectoryNode" />
+              <item name="Power" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,7 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Domain (1)">
+  <component name="RunManager" selected="Application.Domain (2)">
     <configuration name="DoMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FactoryModel.AbatractFactoryModel.DoMain" />
       <module name="Design-Patterns" />
@@ -345,6 +335,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ProtoTypeModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Domain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdapterModel.Domain" />
+      <module name="Design-Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdapterModel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -406,9 +407,11 @@
       <item itemvalue="Application.DoMain (1)" />
       <item itemvalue="Application.Domain" />
       <item itemvalue="Application.Domain (1)" />
+      <item itemvalue="Application.Domain (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Domain (2)" />
         <item itemvalue="Application.Domain (1)" />
         <item itemvalue="Application.Domain" />
         <item itemvalue="Application.DoMain (1)" />
@@ -429,6 +432,8 @@
       <workItem from="1576999326969" duration="4392000" />
       <workItem from="1577600430847" duration="3016000" />
       <workItem from="1577709059157" duration="2421000" />
+      <workItem from="1577755219311" duration="3000" />
+      <workItem from="1577974626707" duration="3993000" />
     </task>
     <task id="LOCAL-00001" summary="工厂模式和抽象工厂模式">
       <created>1577006187864</created>
@@ -441,7 +446,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9829000" />
+    <option name="totallyTimeSpent" value="13825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -470,7 +475,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -527,76 +532,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="工厂模式和抽象工厂模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" selection-start-line="11" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="11" selection-start-line="13" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/Rectagngle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/DoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/Class/Shap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorEntity/Red.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ColorEntity/Yellow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Rectagngle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryModel/AbatractFactoryModel/ShapEntity/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/README">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -621,9 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,9 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -672,9 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -682,9 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,17 +764,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Cricle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Cricle.java" />
     <entry file="file://$PROJECT_DIR$/src/FactoryModel/CommonFactoryModel/ShapFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -866,21 +779,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapeFactory.java" />
     <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/ShapEntity/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -901,8 +806,6 @@
           <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -913,8 +816,6 @@
           <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -929,7 +830,7 @@
     <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/Domain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -945,18 +846,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProtoTypeModel/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildModel/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="465">
+            <caret line="31" column="130" selection-start-line="31" selection-start-column="130" selection-end-line="31" selection-end-column="130" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -970,13 +871,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuildModel/README.md">
+    <entry file="file://$PROJECT_DIR$/src/AdapterModel/Electric/ChainLandElectric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdapterModel/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="31" column="130" selection-start-line="31" selection-start-column="130" selection-end-line="31" selection-end-column="130" />
+          <first_editor relative-caret-position="240">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdapterModel/Electric/Electric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdapterModel/Electric/ChainElectric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdapterModel/Power/ChainLandPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdapterModel/Power/HKPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdapterModel/Power/HKPowerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdapterModel/Power/ChainLandPowerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdapterModel/ChainLandPowerAdapterHKPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdapterModel/Domain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
